@@ -136,10 +136,10 @@ This project is a full-stack authentication module that meets all the requiremen
 ## Security Measures
 
 1. **Backend:**
-   - Basic Authentication for API documentation.
+   - Basic Authentication for API documentation (**commented out for demo purposes**).
    - Rate-limiting to prevent abuse.
-   - CSRF protection for state-changing requests.
-   - CORS configured to allow secure API access.
+   - CSRF protection for state-changing requests (**commented out for demo purposes**).
+   - CORS configured to allow secure API access (**allowed all for demo purpose**).
    - Input validation to prevent SQL/NoSQL injections and XSS attacks.
 
 2. **Frontend:**
@@ -183,7 +183,7 @@ This project is a full-stack authentication module that meets all the requiremen
 
 ## Support
 
-For any issues or suggestions, please raise an issue in the respective repositories.
+For any issues or suggestions, please email me.
 
 Enjoy exploring the project! 🎉
 
