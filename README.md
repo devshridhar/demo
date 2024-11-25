@@ -1,6 +1,4 @@
-Here is the complete **README.md** file for your project:
 
----
 
 # Full-Stack Authentication Demo
 
@@ -11,6 +9,18 @@ Welcome to the Full-Stack Authentication Demo. This project demonstrates a compl
 - **Frontend Demo**: [https://auth.fullstackdev.in/](https://auth.fullstackdev.in/)
 - **API Documentation**: [https://auth-api.fullstackdev.in/docs](https://auth-api.fullstackdev.in/)
 - **API Base URL**: [https://auth-api.fullstackdev.in/](https://auth-api.fullstackdev.in/)
+
+![image](https://github.com/user-attachments/assets/0e6736b3-e9aa-47f6-a663-213337c31ad1)
+![image](https://github.com/user-attachments/assets/64365c57-f541-45c5-a8d6-208c97a897b4)
+![image](https://github.com/user-attachments/assets/2a6359ba-d8c8-4a52-b471-3312563e7aed)
+![image](https://github.com/user-attachments/assets/1fa29fa9-72fa-413a-8f2f-01c302e845d2)
+
+
+
+
+
+
+
 
 ---
 
@@ -152,6 +162,11 @@ Ensure you have the following installed:
    ```bash
    npm run test:cov
    ```
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/e4a286f4-31c7-44d8-8831-c5655aa60f9e">
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/4d50c875-f22e-4a42-8fa6-b1236b72179d">
+
+
+   
 
 ### Frontend Testing
 
@@ -197,5 +212,3 @@ For any issues or suggestions, please raise an issue in the respective repositor
 Enjoy exploring the project! 🎉
 
 ---
-
-If you want this as a downloadable `.md` file, let me know!
