@@ -174,22 +174,29 @@ This project is a full-stack authentication module that meets all the requiremen
 ---
 
 ## Screenshots
-Register:
+
+**Register:**
+
 ![image](https://github.com/user-attachments/assets/0e6736b3-e9aa-47f6-a663-213337c31ad1)
 
-Login:
+**Login:**
+
 ![image](https://github.com/user-attachments/assets/64365c57-f541-45c5-a8d6-208c97a897b4)
 
-Logout:
+**Logout:**
+
 ![image](https://github.com/user-attachments/assets/1fa29fa9-72fa-413a-8f2f-01c302e845d2)
 
-Documentation:
+**Documentation:**
+
 ![image](https://github.com/user-attachments/assets/2a6359ba-d8c8-4a52-b471-3312563e7aed)
 
-Unit & E2E Test:
+**Unit & E2E Test:**
+
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/e4a286f4-31c7-44d8-8831-c5655aa60f9e">
 
-Code Coverage:
+**Code Coverage:**
+
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/4d50c875-f22e-4a42-8fa6-b1236b72179d">
 
 ## Support
