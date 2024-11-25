@@ -8,7 +8,7 @@ This project is a full-stack authentication module that meets all the requiremen
 ## Demo
 
 - **Live Demo:** [https://auth.fullstackdev.in/](https://auth.fullstackdev.in/)
-- **API Documentation:** [https://auth-api.fullstackdev.in/docs](https://auth-api.fullstackdev.in/docs)
+- **API Documentation:** [https://auth.fullstackdev.in/docs](https://auth.fullstackdev.in/docs)
 - **API Base URL:** [https://auth-api.fullstackdev.in/](https://auth-api.fullstackdev.in/)
 
 ---
@@ -169,7 +169,7 @@ This project is a full-stack authentication module that meets all the requiremen
    - 100% test coverage for all critical modules.
 
 5. **Documentation:**
-   - Swagger API documentation available at [https://auth-api.fullstackdev.in/docs](https://auth-api.fullstackdev.in/docs).
+   - Swagger API documentation available at [https://auth.fullstackdev.in/docs](https://auth.fullstackdev.in/docs).
 
 ---
 
